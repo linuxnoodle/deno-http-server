@@ -1,12 +1,12 @@
 # deno-http-server
 A basic deno http webserver, meant to work with GET and POST requests.
 
-##Requirements
+## Requirements
 ```
 deno 1.4.x <
 ```
 
-##Setup
+## Setup
 ```
 git clone https://github.com/linuxnoodle/deno-http-server
 cd deno-http-server
